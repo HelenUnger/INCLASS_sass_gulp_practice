@@ -1,0 +1,23 @@
+{
+  "name": "ma3_week4",
+  "version": "1.0.0",
+  "description": "inclass rebuild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelenUnger/MA3_Week4.git"
+  },
+  "keywords": [
+    "\"in-class",
+    "rebuild\""
+  ],
+  "author": "Helen Unger and Jacob Atkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelenUnger/MA3_Week4/issues"
+  },
+  "homepage": "https://github.com/HelenUnger/MA3_Week4#readme"
+}
