@@ -1,3 +1,0 @@
-# MA3_Week4
-
-PRACTICE USING GIT
