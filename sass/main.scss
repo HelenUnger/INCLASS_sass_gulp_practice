@@ -1,1 +1,9 @@
-@import '_vars'
+@import '_vars';
+
+//import required modules
+@import 'modules/_header.scss';
+@import 'modules/_sidebar.scss';
+@import 'modules/_content.scss';
+@import 'modules/_footer.scss';
+
+//these are my main styles -> sidebar
