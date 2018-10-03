@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/HelenUnger/MA3_Week4#readme",
   "devDependencies": {
+    "browser-sync": "^2.24.7",
     "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
     "gulp-sass": "^4.0.1"
   }
 }
