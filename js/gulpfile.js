@@ -37,4 +37,3 @@ gulp.task('imageOpt', () =>
         .pipe(imagemin())
         .pipe(gulp.dest('dist/images'))
 );
-
